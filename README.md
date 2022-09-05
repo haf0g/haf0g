@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haf0g 
+- 👋 Hi, I’m @haf0g and I'm a boy
 - 👀 I’m interested in Coding/ Entrepreneurship/ A.I
 - 🌱 I’m currently learning python
 
