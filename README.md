@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @haf0g and I'm a boy
+- 👋 Hi, I’m @haf0g, my actual name is Hafid, I'm a computer science engineering student
+  
 - 👀 I’m interested in python and C programming
 
-- 📫 How to reach me : - email : garhoum@uhp.ac.ma
+- 📫 How to reach me : - email : garhoum.ensa@uhp.ac.ma
+                       - instagram : @haf0g
 
 <!---
 haf0g/haf0g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
