@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @haf0g, my actual name is Hafid, I'm a computer science engineering student
   
-- 👀 I’m interested in python and C programming
-
+- 👀 I’m interested in Python developement and its uses in data science.
 - 📫 How to reach me :
     - email : garhoum.ensa@uhp.ac.ma
     - instagram : @haf0g
