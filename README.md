@@ -124,6 +124,13 @@
   </a>
 </p>
 
+<h3 align="left">Google Cloud Skills Boost Badge:</h3>
+<p align="left">
+  <a href="https://www.cloudskillsboost.google/public_profiles/4b40e4ce-fb70-4493-9747-cc5048607781/badges/11047871?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank">
+    <img src="https://cdn.qwiklabs.com/1qcoaFijgSvSjueiRCujFJz3byeGlR4RHM7QdEi5%2BjY%3D" alt="Google Cloud Skills Boost Badge" width="200" height="200"/>
+  </a>
+</p>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haf0g&show_icons=true&locale=en&layout=compact" alt="haf0g" />
 </p>
@@ -132,6 +139,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=haf0g&show_icons=true&locale=en" alt="haf0g" />
 </p>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haf0g&" alt="haf0g" />
-</p>
+</p>>
