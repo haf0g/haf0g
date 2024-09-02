@@ -1,10 +1,9 @@
-<img align="center" width="100%" src="https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg" alt="MasterHead">
+<!--<img align="center" width="100%" src="https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg" alt="MasterHead">-->
 
 <h1 align="center">Hi 👋, I'm Hafid</h1>
 <h3 align="center">A dedicated Data Engineering student from Morocco, relentlessly working to learn and sharpen my skills.</h3>
 
-<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif">
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif">
+<img align="left" alt="Coding" width="700" height="400" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=haf0g&label=Profile%20views&color=0e75b6&style=flat" alt="haf0g" />
@@ -141,4 +140,5 @@
 
 <!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haf0g&" alt="haf0g" />
-</p>>
+</p>
+-->
