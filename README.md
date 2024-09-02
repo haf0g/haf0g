@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Hafid</h1>
 <h3 align="center">A dedicated Data Engineering student from Morocco, relentlessly working to learn and sharpen my skills.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif">
+<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=haf0g&label=Profile%20views&color=0e75b6&style=flat" alt="haf0g" />
