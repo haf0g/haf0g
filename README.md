@@ -38,8 +38,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,docker,kubernetes,aws,googlecloud,linux,git,mysql,html,css,javascript" />
-    <img src="https://skillicons.dev/icons?i=java,opencv,scikit-learn,pandas,matlab" /><br>
+    <a href="https://go-skill-icons.vercel.app/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,anaconda,opencv,scikit-learn,pandas,tensorflow,flask,docker,kubernetes,aws,googlecloud,linux,wsl,debian" />
+    </a>
+    <a href="https://go-skill-icons.vercel.app/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,html,css,git,github,javascript,nginx,java,c,eclipse,hibernate,matlab" />
+    </a>
+    <br>
+    
 </div>
 
 <br/>
