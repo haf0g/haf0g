@@ -39,10 +39,10 @@
 <br/>
 <div align="center">
     <a href="https://go-skill-icons.vercel.app/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,anaconda,opencv,scikit-learn,pandas,tensorflow,flask,docker,kubernetes,aws,googlecloud,linux,wsl,debian" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,anaconda,opencv,scikit-learn,pandas,tensorflow,flask,docker,kubernetes,aws,googlecloud,linux,debian&titles=true&perline=13" />
     </a>
     <a href="https://go-skill-icons.vercel.app/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,html,css,git,github,javascript,nginx,java,c,eclipse,hibernate,matlab" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,html,css,git,github,javascript,nginx,java,c,eclipse,hibernate,matlab&titles=true&perline=13" />
     </a>
     <br>
     
