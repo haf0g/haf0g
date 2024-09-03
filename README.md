@@ -1,6 +1,3 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haf0g.haf0g" />
-<br>
 <img align="center" src="my-banner-github.gif" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hafid+Garhoum!;" />
@@ -68,6 +65,27 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=haf0g&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haf0g&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haf0g&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=haf0g&icon=0&color=6" alt="Profile Visit Count"/>
+  </a>
 </div>
 
 <br/><br/>
