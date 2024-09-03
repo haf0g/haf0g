@@ -1,6 +1,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haf0g.haf0g" />
-
+<br>
+<img align="center" src="my-banner-github.gif" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hafid+Garhoum!;" />
 </h1>
@@ -38,8 +39,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,opencv,scikitlearn,pandas,tensorflow,flask,docker,kubernetes,aws,googlecloud,linux,debian&perline=13" />
+    </a>
+        <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,html,css,javascript,git,nginx,java,c,eclipse,hibernate,matlab&titles=true" />
+        </a>
     <br>
     
 </div>
