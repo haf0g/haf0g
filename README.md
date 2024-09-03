@@ -79,7 +79,7 @@
 
 <hr/>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h2 align="center">✍️ Random Dev Quote</h2>
 <br>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
