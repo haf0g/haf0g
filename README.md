@@ -69,7 +69,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haf0g&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-</hr>
+<hr/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <br>
@@ -77,7 +77,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=haf0g&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-</hr>
+<hr/>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <br>
