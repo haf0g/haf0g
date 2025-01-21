@@ -63,6 +63,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haf0g&theme=react)](https://git.io/streak-stats)
    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=haf0g&theme=dark&hide_border=false" alt=" github streak" />
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=haf0g&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
