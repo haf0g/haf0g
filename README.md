@@ -65,7 +65,7 @@
 <div align=center>
    
    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=react&hide_border=false" alt="GitHub Streak" />
+  <img width=390 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=react&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </a>
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=haf0g&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
