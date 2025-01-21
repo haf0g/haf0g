@@ -63,7 +63,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=380 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=haf0g&theme=react&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img width=380 src="https://github-readme-streak-stats-eight.vercel.app/?user=haf0g&theme=react&count_private=true&border_radius=10" alt="GitHub Streak" />
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=haf0g&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
