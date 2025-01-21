@@ -35,7 +35,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">💻 Tech Stack: </h2>
 <br/>
 <div align="center">
     <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
@@ -63,7 +63,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=haf0g&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=haf0g&count_private=true&theme=react&border_radius=10)](https://git.io/streak-stats)
+    
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=haf0g&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haf0g&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
