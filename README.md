@@ -11,11 +11,11 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **3D object classification**
+ 🔭 I’m currently working on **ETL flows on GCP**
 
- 🌱 I’m currently learning **Flask, Docker, Kubernetes**
+ 🌱 I’m currently learning **AWS, Agents, Airflow**
 
- 💬 Ask me about **Python, TensorFlow... or anything [here](https://github.com/haf0g/haf0g/issues)**
+ 💬 Ask me about **Python, GCP, Airflow, TensorFlow... or anything [here](https://github.com/haf0g/haf0g/issues)**
 
  ⚡ Fun fact **I enjoy running as a way to stay active and clear my mind. It’s like a mental reset button!**
 
