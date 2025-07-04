@@ -13,7 +13,7 @@
 
  🔭 I’m currently working on **ETL flows on GCP**
 
- 🌱 I’m currently learning **AWS, Agents, Airflow**
+ 🌱 I’m learning **AWS, Agents, Airflow**
 
  💬 Ask me about **Python, GCP, Airflow, TensorFlow... or anything [here](https://github.com/haf0g/haf0g/issues)**
 
