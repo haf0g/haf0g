@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:garhoum.ensa@uhp.ac.ma">
+  <a href="mailto:mr.hafid.garhoum@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/hafid-garhoum" target="_blank">
