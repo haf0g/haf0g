@@ -39,13 +39,13 @@
 <br/>
 <div align="center">
     <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,opencv,scikitlearn,pandas,tensorflow,flask,docker,kubernetes,aws,googlecloud,linux,debian&perline=13" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,pandas,tensorflow,flask,aws,googlecloud,azure,linux&perline=13" />
     </a>
-        <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,html,css,javascript,git,nginx,java,c,eclipse,hibernate,matlab&titles=true" />
-        </a>
-    <br>
-    
+    <br/>
+    <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,git,java,python,spark,airflow,databricks&titles=true" />
+    </a>
+    <br/>
 </div>
 
 <br/>
