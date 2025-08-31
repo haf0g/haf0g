@@ -42,10 +42,11 @@
     </a>
     <br/>
     <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,oracle,mongodb,cassandra,dynamodb,snowflake,bigquery,redshift,dataflow,composer,databricks,airflow,delta,hadoop,kafka,terraform&titles=true" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,oracle,mongodb,cassandra,dynamodb,snowflake,bigquery,redshift,databricks,airflow,hadoop,kafka,terraform,spark&titles=true" />
     </a>
     <br/>
 </div>
+
 
 <br/>
 <hr/>
