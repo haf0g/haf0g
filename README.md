@@ -34,16 +34,15 @@
 </div>
 
 <hr/>
-
 <h2 align="center">💻 Tech Stack: </h2>
 <br/>
 <div align="center">
     <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,pandas,tensorflow,flask,aws,googlecloud,azure,linux&perline=13" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,pandas,pySpark,flask,aws,googlecloud,azure,linux,bash,java&perline=13" />
     </a>
     <br/>
     <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,git,java,python,spark,airflow,databricks&titles=true" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,oracle,mongodb,cassandra,dynamodb,snowflake,bigquery,redshift,dataflow,composer,databricks,airflow,delta,hadoop,kafka,terraform&titles=true" />
     </a>
     <br/>
 </div>
