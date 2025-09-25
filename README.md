@@ -47,6 +47,34 @@
     <br/>
 </div>
 
+<hr/>
+
+<h2 align="center">🎖️ Google Cloud Skills Boost Badges</h2>
+<br>
+<div align="center">
+     <!-- Derive Insights from BigQuery -->
+  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/11088b22-7be5-4fe3-995d-c014514c8dc3/image.png" alt="Credly Badge" height="100" style="margin:5px"/>
+  </a>
+     <!-- Get Started with Pub/Sub  -->
+  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png" alt="Credly Badge" height="100" style="margin:5px"/>
+  </a>
+  <!-- Build Infra with Terraform on GC -->
+  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/badge-image.png" alt="Credly Badge" height="100" style="margin:5px"/>
+  </a>
+  <!-- The Basics of Google Cloud Compute  -->
+  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
+    <img src="https://images.credly.com/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png" alt="Credly Badge" height="100" style="margin:5px"/>
+  </a>
+   <!-- The Basics of Google Cloud Compute  -->
+  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
+    <img src="https://images.credly.com/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png" alt="Credly Badge" height="100" style="margin:5px"/>
+  </a>
+    
+</div>
+
 
 <br/>
 <hr/>
