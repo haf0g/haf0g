@@ -52,26 +52,28 @@
 <h2 align="center">🎖️ Google Cloud Skills Boost Badges</h2>
 <br>
 <div align="center">
-     <!-- Derive Insights from BigQuery -->
-  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
-    <img src="https://cdn.qwiklabs.com/5qs5hVuazOwMOUbhicosgQIYdMSjewNaNle5%2FctmtbU%3D" alt="Credly Badge" height="100" style="margin:5px"/>
-  </a>
      <!-- Get Started with Pub/Sub  -->
   <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png" alt="Credly Badge" height="100" style="margin:5px"/>
+    <img src="https://cdn.qwiklabs.com/L6bZhlHU%2Fa5AvlMb74RyGFqLK9mY%2B4WVMaMoN2HlxKg%3D" alt="Credly Badge" height="110" style="margin:5px"/>
+  </a>
+     <!-- Derive Insights from BigQuery -->
+  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
+    <img src="https://cdn.qwiklabs.com/5qs5hVuazOwMOUbhicosgQIYdMSjewNaNle5%2FctmtbU%3D" alt="Credly Badge" height="110" style="margin:5px"/>
+  </a>
+     <!-- Create a Secure Data Lake on Cloud Storage -->
+  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
+    <img src="https://cdn.qwiklabs.com/lXJ0NA0xoAjjLhlCCbMmKvD4H0qwgQDfMCkpfZFB%2FCQ%3D" alt="Credly Badge" height="110" style="margin:5px"/>
+  </a>
+    <!-- The Basics of Google Cloud Compute  -->
+  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
+    <img src="https://cdn.qwiklabs.com/r6WXBsEm%2B4pSMiqQaMvc9RRpAVoY4I172ic7O5I%2FiU0%3D" alt="Credly Badge" height="110" style="margin:5px"/>
   </a>
   <!-- Build Infra with Terraform on GC -->
   <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
-    <img src="https://cdn.qwiklabs.com/3HEbYh%2FmWlHHSWS9DA2%2F84ycaK%2BPR5Qx%2F3u5nqIhxJc%3D" alt="Credly Badge" height="100" style="margin:5px"/>
-  </a>
-  <!-- The Basics of Google Cloud Compute  -->
-  <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
-    <img src="https://cdn.qwiklabs.com/r6WXBsEm%2B4pSMiqQaMvc9RRpAVoY4I172ic7O5I%2FiU0%3D" alt="Credly Badge" height="100" style="margin:5px"/>
+    <img src="https://cdn.qwiklabs.com/3HEbYh%2FmWlHHSWS9DA2%2F84ycaK%2BPR5Qx%2F3u5nqIhxJc%3D" alt="Credly Badge" height="110" style="margin:5px"/>
   </a>
  
-    
 </div>
-
 
 <br/>
 <hr/>
