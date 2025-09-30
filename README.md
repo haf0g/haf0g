@@ -60,6 +60,9 @@
   <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
     <img src="https://cdn.qwiklabs.com/5qs5hVuazOwMOUbhicosgQIYdMSjewNaNle5%2FctmtbU%3D" alt="Credly Badge" height="110" style="margin:5px"/>
   </a>
+      <!-- Build a Data Warehouse with BigQuery  -->
+  <a href="https://www.cloudskillsboost.google/public_profiles/4b40e4ce-fb70-4493-9747-cc5048607781/badges/18745756" target="_blank">
+    <img src="https://cdn.qwiklabs.com/37%2FH3X%2FNAVdVr1y%2Fg%2BBT0RLjEw22UROOvRxqTQ7GcAg%3D" alt="Google Cloud Badge" height="110" style="margin:5px"/>
      <!-- Create a Secure Data Lake on Cloud Storage -->
   <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
     <img src="https://cdn.qwiklabs.com/lXJ0NA0xoAjjLhlCCbMmKvD4H0qwgQDfMCkpfZFB%2FCQ%3D" alt="Credly Badge" height="110" style="margin:5px"/>
