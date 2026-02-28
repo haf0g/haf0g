@@ -120,7 +120,9 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haf0g&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img 
+    src="https://github-profile-trophy-sigma-five.vercel.app/?username=haf0g&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" 
+    alt="GitHub Trophies"/>
 </div>
 
 <hr/>
