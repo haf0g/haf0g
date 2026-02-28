@@ -22,18 +22,22 @@
 </div>
 
 <div align="center">
-  <a href="mailto:mr.hafid.garhoum@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/hafid-garhoum" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/hafidgarhoum" target="_blank">
-     <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
+  <span style="display:inline-block">
+    <a href="mailto:mr.hafid.garhoum@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </span>
+  <span style="display:inline-block">
+    <a href="https://linkedin.com/in/hafid-garhoum" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </span>
+  <span style="display:inline-block">
+     <a href="https://kaggle.com/hafidgarhoum" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=white" />
+     </a>
+  </span>
 </div>
-
-<hr/>
 
 <hr/>
 <h2 align="center">💻 Tech Stack: </h2>
