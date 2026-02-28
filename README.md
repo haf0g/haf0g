@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,pandas,flask,aws,googlecloud,azure,linux,bash,java&perline=13&theme=dark" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,pandas,flask,aws,googlecloud,azure,linux,bash,java,dbt&perline=13&theme=dark" />
     </a>
     <br/>
     <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
