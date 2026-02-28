@@ -35,17 +35,20 @@
 
 <hr/>
 
-<h2 align="center">💻 Tech Stack</h2>
-
+<hr/>
+<h2 align="center">💻 Tech Stack: </h2>
+<br/>
 <div align="center">
-
-<!-- Core languages & tools -->
-<img src="https://skillicons.dev/icons?i=python,jupyter,pandas,flask,aws,googlecloud,azure,linux,bash,java,dbt&theme=dark" /><br/>
-
-<!-- Databases & data platforms -->
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle,mongodb,cassandra,dynamodb,snowflake,bigquery,redshift,databricks,airflow,hadoop,kafka,terraform,spark&titles=true&theme=dark" />
-
+    <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,pandas,flask,aws,googlecloud,azure,linux,bash,java&perline=13&theme=dark" />
+    </a>
+    <br/>
+    <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,oracle,mongodb,cassandra,dynamodb,snowflake,bigquery,redshift,databricks,airflow,hadoop,kafka,terraform,spark&titles=true&theme=dark" />
+    </a>
+    <br/>
 </div>
+
 <hr/>
 
 <h2 align="center">🎖️ Google Cloud Skills Boost Badges</h2>
