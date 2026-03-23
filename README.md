@@ -9,7 +9,7 @@
 <div align="center">
 
 
- 🌱 I’m learning **Snowflake, dbt and AWS**
+ 🌱 I’m learning **Snowflake & dbt**
 
  💬 Ask me about **GCP, Airflow, ... or anything [here](https://github.com/haf0g/haf0g/issues)**
 
