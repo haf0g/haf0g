@@ -11,11 +11,10 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **Getting a PFE Internship**
 
- 🌱 I’m learning **AWS, dbt, Snowflake**
+ 🌱 I’m learning **Snowflake, dbt and AWS**
 
- 💬 Ask me about **GCP, Airflow, TensorFlow... or anything [here](https://github.com/haf0g/haf0g/issues)**
+ 💬 Ask me about **GCP, Airflow, ... or anything [here](https://github.com/haf0g/haf0g/issues)**
 
  ⚡ Fun fact **I enjoy running as a way to stay active and clear my mind. It’s like a mental reset button!**
 
