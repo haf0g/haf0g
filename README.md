@@ -8,31 +8,25 @@
 
 <div align="center">
 
+ 🌱 I'm currently working with **Snowflake, SAP, and GenAI agent pipelines**
 
- 🌱 I’m learning **Snowflake & dbt**
+ 💬 Ask me about **data pipelines, MCP tooling, or anything [here](https://github.com/haf0g/haf0g/issues)**
 
- 💬 Ask me about **GCP, Airflow, ... or anything [here](https://github.com/haf0g/haf0g/issues)**
-
- ⚡ Fun fact **I enjoy running as a way to stay active and clear my mind. It’s like a mental reset button!**
+ ⚡ Fun fact: **I enjoy running as a way to stay active and clear my mind. It's like a mental reset button!**
 
 </div>
 
 <div align="center">
-  <a href="mailto:mr.hafid.garhoum@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://linkedin.com/in/hafid-garhoum" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://kaggle.com/hafidgarhoum" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:mr.hafid.garhoum@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hafid-garhoum" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/hafidgarhoum" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </div>
 
 <hr/>
-<h2 align="center">💻 Tech Stack: </h2>
+<h2 align="center">💻 Tech Stack</h2>
 <br/>
 <div align="center">
-    <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,pandas,flask,aws,googlecloud,azure,linux,bash,java&perline=13&theme=dark" />
-    </a>
-    <br/>
-    <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,oracle,mongodb,cassandra,dynamodb,snowflake,bigquery,redshift,databricks,airflow,hadoop,kafka,terraform,spark&titles=true&theme=dark" />
-    </a>
-    <br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,snowflake,bigquery,gcp,terraform,linux,bash&perline=10&theme=dark" />
 </div>
 
 <hr/>
@@ -64,7 +58,7 @@
   <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
     <img src="https://cdn.qwiklabs.com/r6WXBsEm%2B4pSMiqQaMvc9RRpAVoY4I172ic7O5I%2FiU0%3D" alt="Credly Badge" height="110" style="margin:5px"/>
   </a>
-  <!-- Build Infra with Terraform on GC -->
+  <!-- Build Infra with Terraform on GCP -->
   <a href="https://www.credly.com/users/hafid-garhoum/badges" target="_blank">
     <img src="https://cdn.qwiklabs.com/3HEbYh%2FmWlHHSWS9DA2%2F84ycaK%2BPR5Qx%2F3u5nqIhxJc%3D" alt="Credly Badge" height="110" style="margin:5px"/>
   </a>
@@ -76,7 +70,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<img src="https://raw.githubusercontent.com/haf0g/haf0g/output/github-contribution-grid-snake-dark.svg?v=2" />    
+  <img src="https://raw.githubusercontent.com/haf0g/haf0g/output/github-contribution-grid-snake-dark.svg?v=2" />
   <br/><br/><br/>
 </div>
 
@@ -87,16 +81,19 @@
 <div align="center">
 
   <img width="390" height="160"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=haf0g&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=haf0g&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak" />
 
-<img width="390" height="160"
+  <img width="390" height="160"
     src="https://github-stats-extended.vercel.app/api?username=haf0g&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats" />
-<br/>
-<img width="325"
+  <br/>
+  <img width="325"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=haf0g&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages" />
+
+</div>
+
 <hr/>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
