@@ -90,14 +90,12 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=haf0g&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak" />
 
-  <img width="390" height="160"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=haf0g&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
+<img width="390" height="160"
+    src="https://github-readme-stats.vercel.app/api?username=haf0g&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats" />
-
-  <br/>
-
-  <img width="325"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haf0g&layout=compact&theme=github_dark&hide_border=true"
+<br/>
+<img width="325"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haf0g&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages" />
 
 </div>
