@@ -91,14 +91,12 @@
     alt="GitHub Streak" />
 
 <img width="390" height="160"
-    src="https://github-readme-stats.vercel.app/api?username=haf0g&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=haf0g&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats" />
 <br/>
 <img width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haf0g&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=haf0g&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages" />
-
-</div>
 <hr/>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
