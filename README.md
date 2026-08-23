@@ -26,7 +26,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 <br/>
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sql,snowflake,bigquery,terraform,linux,,mysql,postgresql,oracle,databricks,airflow,hadoop,kafka,spark&perline=10&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake,bigquery,linux,postgresql,oracle,databricks,airflow,dbt,hadoop,kafka,spark&perline=10&theme=dark" />
 </div>
 
 <hr/>
